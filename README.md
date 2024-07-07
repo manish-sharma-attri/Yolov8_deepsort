@@ -14,6 +14,6 @@ To get started, clone this repository and install the required dependencies:
 ```bash
 git clone https://github.com/manish-sharma-attri/Yolov8_deepsort.git
 cd Yolov8_deepsort
-pip install -r requirements.txt
+pip install -r requirements.txt ```
 
 ![Capture](https://github.com/manish-sharma-attri/Yolov8_deepsort/assets/102635250/f7e63b67-9bf3-4f57-a2c7-eb2241caeab4)
