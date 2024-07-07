@@ -12,7 +12,7 @@ This project integrates the powerful YOLOv8 object detection model with the Deep
    git clone https://github.com/manish-sharma-attri/yolov8_deepsort.git
    cd yolov8_deepsort
    pip install -r requirements.txt
-
+```sh
 
 
 ![Capture](https://github.com/manish-sharma-attri/Yolov8_deepsort/assets/102635250/f7e63b67-9bf3-4f57-a2c7-eb2241caeab4)
